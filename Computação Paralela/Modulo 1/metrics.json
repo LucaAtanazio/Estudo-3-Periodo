@@ -1,0 +1,11 @@
+{
+    "ambiente": "Lenovo Windows 11 - Acad\u00eamico",
+    "dataset_shape": "(569, 36)",
+    "n_workers": 8,
+    "tempos": {
+        "sequencial_total": 0.0924,
+        "paralelo_total": 0.5,
+        "speedup": 0.18
+    },
+    "status": "Sucesso - Integridade de dados verificada"
+}

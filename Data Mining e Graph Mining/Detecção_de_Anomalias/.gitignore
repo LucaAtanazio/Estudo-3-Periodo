@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+ipython_log*
+
+*.pdf
+
+__pycache__/
+.venv/
+env/
+build/
+
